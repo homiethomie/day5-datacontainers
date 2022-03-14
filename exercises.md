@@ -12,7 +12,6 @@ Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/scipy/
  [4 5 6]
  [7 8 9]]
 ```
-
 #### b. Define a vector b
 ```
 [1 2 3]
